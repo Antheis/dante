@@ -2,6 +2,8 @@
 
 Epitech's first year project centered around labyrinth's generation and solving using width, depth or A* algorithms.
 
+Made by Anthony Nogueira and Julien Marinica
+
 You can type `make re` at the folder's root to recompile every folder.
 
 ## Generate a labyrinth
